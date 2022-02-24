@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoInts", "AddTwoInts\Ad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power", "Power\Power.csproj", "{C83FECC2-0AED-477E-B970-F22CAAA6E2ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeOfParallelepiped", "VolumeOfParallelepiped\VolumeOfParallelepiped.csproj", "{F7E3B2B1-89E0-4557-9DFE-FF74D42000D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{C83FECC2-0AED-477E-B970-F22CAAA6E2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C83FECC2-0AED-477E-B970-F22CAAA6E2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C83FECC2-0AED-477E-B970-F22CAAA6E2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E3B2B1-89E0-4557-9DFE-FF74D42000D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E3B2B1-89E0-4557-9DFE-FF74D42000D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E3B2B1-89E0-4557-9DFE-FF74D42000D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E3B2B1-89E0-4557-9DFE-FF74D42000D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
