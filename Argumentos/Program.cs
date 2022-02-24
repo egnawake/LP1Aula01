@@ -6,7 +6,10 @@ namespace Argumentos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i;
+            for (i = 0; i < args.Length; i++) {
+                Console.WriteLine(args[i]);
+            }
         }
     }
 }
