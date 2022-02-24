@@ -6,6 +6,10 @@ namespace VariasStrings
     {
         static void Main(string[] args)
         {
+            double xx = 0.12345;
+            int ii = 18;
+
+            // ex4
             string hello = "Hello world!";
             Console.WriteLine(hello);
             
@@ -25,6 +29,7 @@ namespace VariasStrings
             Console.WriteLine(verbatim);
 
 
+            // ex5
             string concat1 = "abc" + "def";
             Console.WriteLine(concat1);
 
@@ -40,6 +45,14 @@ namespace VariasStrings
             Console.WriteLine(interpolation2);
 
             Console.WriteLine("{0}^2 = {1}", x, x * x);
+
+
+            // ex6
+            Console.WriteLine("Float, two decimal places: {0:f2}", xx);
+            Console.WriteLine("Percentage, one decimal place: {0:p1}", xx);
+
+            Console.WriteLine("Int, hex: {0:x}", ii);
+            Console.WriteLine("Int, currency: {0:c}", ii);
         }
     }
 }
