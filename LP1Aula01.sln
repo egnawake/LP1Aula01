@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariasStrings", "VariasStri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo", "Echo\Echo.csproj", "{3668EB91-95F6-49D5-882C-B9981D4B137F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReverse\StringReverse.csproj", "{824B9267-AF98-4C99-ABC1-768C831977EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{3668EB91-95F6-49D5-882C-B9981D4B137F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3668EB91-95F6-49D5-882C-B9981D4B137F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3668EB91-95F6-49D5-882C-B9981D4B137F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824B9267-AF98-4C99-ABC1-768C831977EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824B9267-AF98-4C99-ABC1-768C831977EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824B9267-AF98-4C99-ABC1-768C831977EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824B9267-AF98-4C99-ABC1-768C831977EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
